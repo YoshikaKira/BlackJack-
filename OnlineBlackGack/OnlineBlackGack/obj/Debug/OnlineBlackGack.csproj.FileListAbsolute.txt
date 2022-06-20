@@ -1,0 +1,23 @@
+C:\Users\STUDENT\source\repos\OnlineBlackGack\OnlineBlackGack\bin\Debug\OnlineBlackGack.exe.config
+C:\Users\STUDENT\source\repos\OnlineBlackGack\OnlineBlackGack\bin\Debug\OnlineBlackGack.exe
+C:\Users\STUDENT\source\repos\OnlineBlackGack\OnlineBlackGack\bin\Debug\OnlineBlackGack.pdb
+C:\Users\STUDENT\source\repos\OnlineBlackGack\OnlineBlackGack\obj\Debug\OnlineBlackGack.csproj.AssemblyReference.cache
+C:\Users\STUDENT\source\repos\OnlineBlackGack\OnlineBlackGack\obj\Debug\OnlineBlackGack.Form1.resources
+C:\Users\STUDENT\source\repos\OnlineBlackGack\OnlineBlackGack\obj\Debug\OnlineBlackGack.Properties.Resources.resources
+C:\Users\STUDENT\source\repos\OnlineBlackGack\OnlineBlackGack\obj\Debug\OnlineBlackGack.csproj.GenerateResource.cache
+C:\Users\STUDENT\source\repos\OnlineBlackGack\OnlineBlackGack\obj\Debug\OnlineBlackGack.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\source\repos\OnlineBlackGack\OnlineBlackGack\obj\Debug\OnlineBlackGack.exe
+C:\Users\STUDENT\source\repos\OnlineBlackGack\OnlineBlackGack\obj\Debug\OnlineBlackGack.pdb
+Z:\Экзамен ПВ121\OnlineBlackGack\OnlineBlackGack\bin\Debug\OnlineBlackGack.exe.config
+Z:\Экзамен ПВ121\OnlineBlackGack\OnlineBlackGack\bin\Debug\OnlineBlackGack.exe
+Z:\Экзамен ПВ121\OnlineBlackGack\OnlineBlackGack\bin\Debug\OnlineBlackGack.pdb
+Z:\Экзамен ПВ121\OnlineBlackGack\OnlineBlackGack\obj\Debug\OnlineBlackGack.csproj.AssemblyReference.cache
+Z:\Экзамен ПВ121\OnlineBlackGack\OnlineBlackGack\obj\Debug\OnlineBlackGack.Form1.resources
+Z:\Экзамен ПВ121\OnlineBlackGack\OnlineBlackGack\obj\Debug\OnlineBlackGack.Properties.Resources.resources
+Z:\Экзамен ПВ121\OnlineBlackGack\OnlineBlackGack\obj\Debug\OnlineBlackGack.csproj.GenerateResource.cache
+Z:\Экзамен ПВ121\OnlineBlackGack\OnlineBlackGack\obj\Debug\OnlineBlackGack.csproj.CoreCompileInputs.cache
+Z:\Экзамен ПВ121\OnlineBlackGack\OnlineBlackGack\obj\Debug\OnlineBlackGack.exe
+Z:\Экзамен ПВ121\OnlineBlackGack\OnlineBlackGack\obj\Debug\OnlineBlackGack.pdb
+Z:\Экзамен ПВ121\OnlineBlackGack\OnlineBlackGack\bin\Debug\Newtonsoft.Json.dll
+Z:\Экзамен ПВ121\OnlineBlackGack\OnlineBlackGack\bin\Debug\Newtonsoft.Json.xml
+Z:\Экзамен ПВ121\OnlineBlackGack\OnlineBlackGack\obj\Debug\OnlineBlackGack.csproj.CopyComplete
